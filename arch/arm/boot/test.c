@@ -1,6 +1,6 @@
 #include <stdio.h>
  
 void main() {
-  while(1)
     printf("*********************************************\n");
+  while(1);
 }
